@@ -21,10 +21,3 @@ A simple web application for splitting expenses among friends or group members. 
 
 - Node.js (v14 or higher)
 - MongoDB Atlas account (for cloud database)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/expense-splitter.git
-   cd expense-splitter
